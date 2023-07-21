@@ -2,10 +2,14 @@
 Atualização  do Projeto [Banco Fuctura](https://github.com/Edivaldo16/BancoFuctura/tree/main). Na versão anterior todos os dados do cliente eram armazenados em `ArrayList`, ou seja, quando se encerrava o console da IDE todos os dados armazenados eram apagados. Visando solucionar esse problema e aplicando os conhecimentos do curso de Java 02, resolvi atualizar o projeto implementando-o em JDBC, em que os dados do cliente ficam armazenados em 4 tabelas (`Conta Corrente`, `Conta Poupança`, `Endereço` e `Pessoa`) no DBeaver. A comunicação entre a IDE Eclipse e o DBeaver se dá através do My Sql. Clique [aqui]() para visualizar o projeto.
 
 ## Tabelas
-![Conta Corrente](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/contacorrente.png)
-![Conta Poupança](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/contapoupanca.png)
-![Endereço](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/endereco.png)
-![Pessoa]((https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/Pessoa.png))
+### 1. Conta Corrente
+![Tabelas](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/contacorrente.png)
+### 2. Conta Poupança
+![Tabelas](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/contapoupanca.png)
+### 3. Endereço
+![Tabelas](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/endereco.png)
+### 4. Pessoa
+![Tabelas](https://github.com/Edivaldo16/ProjetoBancoJDBC/blob/main/Projeto/Fotos/Pessoa.png)
 
 ## Implementações Futuras
 
